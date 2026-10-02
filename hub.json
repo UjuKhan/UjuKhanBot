@@ -3,56 +3,56 @@
         "icon": "🔴",
         "title": "POKÉDEX",
         "color": "pokedex",
-        "link": "https://shanapanel.github.io/Shanabot/pokedex.html",
+        "link": "https://ujukhan.github.io/UjuKhanBot/pokedex.html",
         "desc": "Eğitmenlerin güncel koleksiyon verileri ve aktif savaş takımları."
     },
     {
         "icon": "🏆",
         "title": "BAŞARIMLAR",
         "color": "basarim",
-        "link": "https://shanapanel.github.io/Shanabot/başarım.html",
+        "link": "https://ujukhan.github.io/UjuKhanBot/başarım.html",
         "desc": "Kullanıcı rütbeleri, kariyer kayıtları ve kilitli madalyalar."
     },
     {
         "icon": "👑",
         "title": "LİDERLİK",
         "color": "leader",
-        "link": "https://shanapanel.github.io/Shanabot/leaderboard.html",
+        "link": "https://ujukhan.github.io/UjuKhanBot/leaderboard.html",
         "desc": "Etkinlik şampiyonları, TOP 25 listesi ve Onur Kürsüsü."
     },
     {
         "icon": "🔥",
         "title": "MERCH",
         "color": "pokedex",
-        "link": "https://shanapanel.github.io/Shanabot/merch",
+        "link": "https://ujukhan.github.io/UjuKhanBot//merch",
         "desc": "merch ürünleri şu anda test aşamasında"
     },
     {
         "icon": "🎯",
         "title": "ETKİNLİKLER",
         "color": "event",
-        "link": "https://shanapanel.github.io/Shanabot/eventler.html",
+        "link": "https://ujukhan.github.io/UjuKhanBot/eventler.html",
         "desc": "Harf Çorbası ve canlı yayın oyun protokolleri hakkında teknik rehber."
     },
     {
         "icon": "🎬",
         "title": "WATCHPARTY",
         "color": "watchparty",
-        "link": "https://shanapanel.github.io/Shanabot/watchparty.html",
+        "link": "https://ujukhan.github.io/UjuKhanBot/watchparty.html",
         "desc": "Yayında birlikte izlediğimiz anime, dizi ve filmlerin detaylı sezon arşiv rehberi."
     },
     {
         "icon": "🏦",
         "title": "PUAN MARKETİ",
         "color": "market",
-        "link": "https://shanapanel.github.io/Shanabot/market.html",
+        "link": "https://ujukhan.github.io/UjuKhanBot/market.html",
         "desc": "Sistem içi varlıklarla ticaret ve özel yetki alım terminali."
     },
     {
         "icon": "1️⃣",
         "title": "ÇOKÇA SORULANLAR",
         "color": "faq",
-        "link": "https://shanapanel.github.io/Shanabot/faq.html",
+        "link": "https://ujukhan.github.io/UjuKhanBot/faq.html",
         "desc": "Sistem protokolleri, puan kazanma yöntemleri ve av kuralları rehberi."
     }
 ]
