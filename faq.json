@@ -13,22 +13,22 @@
         {
             "title": "🏦 GİŞE MAAŞI",
             "color": "border-pink",
-            "content": "Botun çağrısından sonra ödemeyi onaylamak için tam <span class=\"val-text\">60 SANİYE</span> süreniz bulunmaktadır. <br>\n                    Normal Ödeme: <span class=\"val-text\">10 Birim</span> | Abone: <span class=\"sub-text\">60 Birim</span>."
+            "content": "Botun çağrısından sonra ödemeyi onaylamak için tam <span class=\"val-text\">60 SANİYE</span> süreniz bulunmaktadır. <br> Normal Ödeme: <span class=\"val-text\">10 Birim</span> | Abone: <span class=\"sub-text\">60 Birim</span>."
         },
         {
             "title": "💸 PUAN TRANSFERİ",
             "color": "border-green",
-            "content": "Coinlerinizi diğer kullanıcılara hediye edebilir veya ticaret yapabilirsiniz. (%18 vergi kesilir.) <br>\n                    <span class=\"gold-text\">KOMUT:</span> !gönder [kullanıcı_adı] [miktar] <br>\n                    <span class=\"val-text\">Örnek:</span> !gönder ujukhan 1000"
+            "content": "Coinlerinizi diğer kullanıcılara hediye edebilir veya ticaret yapabilirsiniz. (%18 vergi kesilir.) <br> <span class=\"gold-text\">KOMUT:</span> !gönder [kullanıcı_adı] [miktar] <br> <span class=\"val-text\">Örnek:</span> !gönder ujukhan 1000"
         },
         {
             "title": "🔮 ÖNGÖRÜ SİSTEMİ",
             "color": "border-purple",
-            "content": "Yayın olaylarına bahis yaparak yatırdığınızın tam <span class=\"val-text\">Toplam puan/Yatırılan Puan oranında</span> kazanın. <br>\n                    Seçenek sınırı yoktur. <br><br>\n                    <span class=\"purple-text\">KOMUTLAR:</span><br>\n                    <span class=\"val-text\">!öngör [seçenek] [puan]</span><br>\n                    <span class=\"gold-text\">!bas [seçenek] [puan]</span>"
+            "content": "Yayın olaylarına bahis yaparak yatırdığınızın tam <span class=\"val-text\">Toplam puan/Yatırılan Puan oranında</span> kazanın. <br> Seçenek sınırı yoktur. <br><br> <span class=\"purple-text\">KOMUTLAR:</span><br> <span class=\"val-text\">!öngör [seçenek] [puan]</span><br> <span class=\"gold-text\">!bas [seçenek] [puan]</span>"
         },
         {
             "title": "💜 PUAN ETKİNLİKLERİ",
             "color": "border-purple",
-            "content": "Sohbet üzerinden katılabileceğiniz aktif etkinliklerin ve gelecek etkinliklerin tüm detayları için etkinlikler sayfasını ziyaret edin. <br><br>\n                    <a href=\"https://ujukhan.github.io/UjuKhanBot/eventler.html" class=\"event-link-btn\">➡️ ETKİNLİK DETAYLARI VE BİLGİ AL</a>"
+            "content": "Sohbet üzerinden katılabileceğiniz aktif etkinliklerin ve gelecek etkinliklerin tüm detayları için etkinlikler sayfasını ziyaret edin. <br><br> <a href=\"https://ujukhan.github.io/UjuKhanBot/eventler.html\" class=\"event-link-btn\">➡️ ETKİNLİK DETAYLARI VE BİLGİ AL</a>"
         }
     ],
     "POKEMON": [
@@ -45,24 +45,24 @@
         {
             "title": "🛰️ VAHŞİ POKÉMON AV PROTOKOLÜ",
             "color": "border-gold",
-            "content": "<span class=\"gold-text\">ORTAYA ÇIKIŞ:</span> 300-1200 saniye arası rastgele belirir. <br>\n                    <span class=\"gold-text\">YAKALAMA:</span> Pokémon belirdikten sonra tam <span class=\"val-text\">50 SANİYE</span> vaktiniz vardır. <br>\n                    <span class=\"important\">DİKKAT:</span> Pokémon tek kişiliktir. Bir eğitmen yakalamaya başladığı an başkası müdahale edemez. <br>\n                    <span class=\"important\">KOLEKSİYON:</span> Her eğitmen, her bir Pokémon'u koleksiyonuna sadece <span class=\"val-text\">BİR KEZ</span> ekleyebilir. <br>\n                    <span class=\"gold-text\">KİŞİSEL COOLDOWN:</span> !yakala kullanımı sonrası <span class=\"val-text\">24 Saniye</span> beklenmelidir."
+            "content": "<span class=\"gold-text\">ORTAYA ÇIKIŞ:</span> 300-1200 saniye arası rastgele belirir. <br> <span class=\"gold-text\">YAKALAMA:</span> Pokémon belirdikten sonra tam <span class=\"val-text\">50 SANİYE</span> vaktiniz vardır. <br> <span class=\"important\">DİKKAT:</span> Pokémon tek kişiliktir. Bir eğitmen yakalamaya başladığı an başkası müdahale edemez. <br> <span class=\"important\">KOLEKSİYON:</span> Her eğitmen, her bir Pokémon'u koleksiyonuna sadece <span class=\"val-text\">BİR KEZ</span> ekleyebilir. <br> <span class=\"gold-text\">KİŞİSEL COOLDOWN:</span> !yakala kullanımı sonrası <span class=\"val-text\">24 Saniye</span> beklenmelidir."
         },
         {
             "title": "⚔️ TAKIM YÖNETİMİ VE SLOTLAR",
             "color": "border-cyan",
-            "content": "<span class=\"gold-text\">SLOT ATAMA:</span> !slot[1-6] [Pokemon No] (Örn: !slot1 1) <br>\n                    <span class=\"gold-text\">!pokeparty :</span> Aktif 6'lı takımınızı yayın ekranına yansıtır."
+            "content": "<span class=\"gold-text\">SLOT ATAMA:</span> !slot[1-6] [Pokemon No] (Örn: !slot1 1) <br> <span class=\"gold-text\">!pokeparty :</span> Aktif 6'lı takımınızı yayın ekranına yansıtır."
         },
         {
             "title": "📖 POKÉDEX",
             "color": "border-cyan",
-            "content": "Koleksiyonunuzdaki Pokémonları nesillere göre listelemek ve tüm listeyi incelemek için aşağıdaki komutları kullanın: <br><br>\n                    <span class=\"val-text\">!pokedex1 :</span> Nesil 1 Pokémonlarınızı listeler. <br>\n                    <span class=\"val-text\">!pokedex2 :</span> Nesil 2 Pokémonlarınızı listeler. <br>\n                    <span class=\"val-text\">!pokedex3 :</span> Nesil 3 Pokémonlarınızı listeler.\n                </p>\n                <div class=\"gen-gallery\">\n                    <div class=\"gen-card\" onclick=\"zoomImg('gen1.jpg')\">\n                        <img src=\"gen1.jpg\"><span>POKÉDEX1</span>\n                    </div>\n                    <div class=\"gen-card\" onclick=\"zoomImg('gen2.jpg')\">\n                        <img src=\"gen2.jpg\"><span>POKÉDEX2</span>\n                    </div>\n                    <div class=\"gen-card\" onclick=\"zoomImg('gen3.jpg')\">\n                        <img src=\"gen3.jpg\"><span>POKÉDEX3</span>"
+            "content": "Koleksiyonunuzdaki Pokémonları nesillere göre listelemek ve tüm listeyi incelemek için aşağıdaki komutları kullanın: <br><br> <span class=\"val-text\">!pokedex1 :</span> Nesil 1 Pokémonlarınızı listeler. <br> <span class=\"val-text\">!pokedex2 :</span> Nesil 2 Pokémonlarınızı listeler. <br> <span class=\"val-text\">!pokedex3 :</span> Nesil 3 Pokémonlarınızı listeler.<br><br><div class=\"gen-gallery\"><div class=\"gen-card\" onclick=\"zoomImg('gen1.jpg')\"><img src=\"gen1.jpg\"><span>POKÉDEX1</span></div><div class=\"gen-card\" onclick=\"zoomImg('gen2.jpg')\"><img src=\"gen2.jpg\"><span>POKÉDEX2</span></div><div class=\"gen-card\" onclick=\"zoomImg('gen3.jpg')\"><img src=\"gen3.jpg\"><span>POKÉDEX3</span></div></div>"
         }
     ],
     "BAŞARIMLAR": [
         {
             "title": "🎖️ BAŞARIM VE SİSTEM BİLGİSİ",
             "color": "border-cyan",
-            "content": "Sistemdeki tüm ilerlemeleriniz belirli aralıklarla işlenmektedir. <br><br>\n                    <span class=\"important\">GÜNCELLEME NOTU:</span> Başarımlar ve rütbe ilerlemeleri <span class=\"val-text\">yayın sonu / gün sonu</span> veriler işlendiğinde panelinize yansımaktadır."
+            "content": "Sistemdeki tüm ilerlemeleriniz belirli aralıklarla işlenmektedir. <br><br> <span class=\"important\">GÜNCELLEME NOTU:</span> Başarımlar ve rütbe ilerlemeleri <span class=\"val-text\">yayın sonu / gün sonu</span> veriler işlendiğinde panelinize yansımaktadır."
         }
     ]
 }
