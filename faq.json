@@ -18,7 +18,7 @@
         {
             "title": "💸 PUAN TRANSFERİ",
             "color": "border-green",
-            "content": "Coinlerinizi diğer kullanıcılara hediye edebilir veya ticaret yapabilirsiniz. (%18 vergi kesilir.) <br>\n                    <span class=\"gold-text\">KOMUT:</span> !gönder [kullanıcı_adı] [miktar] <br>\n                    <span class=\"val-text\">Örnek:</span> !gönder shana 1000"
+            "content": "Coinlerinizi diğer kullanıcılara hediye edebilir veya ticaret yapabilirsiniz. (%18 vergi kesilir.) <br>\n                    <span class=\"gold-text\">KOMUT:</span> !gönder [kullanıcı_adı] [miktar] <br>\n                    <span class=\"val-text\">Örnek:</span> !gönder ujukhan 1000"
         },
         {
             "title": "🔮 ÖNGÖRÜ SİSTEMİ",
@@ -28,7 +28,7 @@
         {
             "title": "💜 PUAN ETKİNLİKLERİ",
             "color": "border-purple",
-            "content": "Sohbet üzerinden katılabileceğiniz aktif etkinliklerin ve gelecek etkinliklerin tüm detayları için etkinlikler sayfasını ziyaret edin. <br><br>\n                    <a href=\"https://shanapanel.github.io/Shanabot/eventler.html\" class=\"event-link-btn\">➡️ ETKİNLİK DETAYLARI VE BİLGİ AL</a>"
+            "content": "Sohbet üzerinden katılabileceğiniz aktif etkinliklerin ve gelecek etkinliklerin tüm detayları için etkinlikler sayfasını ziyaret edin. <br><br>\n                    <a href=\"https://ujukhan.github.io/UjuKhanBot/eventler.html" class=\"event-link-btn\">➡️ ETKİNLİK DETAYLARI VE BİLGİ AL</a>"
         }
     ],
     "POKEMON": [
