@@ -104,12 +104,32 @@
 
     <script>
         async function loadFaq() {
-            try {
-                const response = await fetch('/UjuKhanBot/faq.json');
-                const faqData = await response.json();
-                renderFaq(faqData);
-            } catch(e) { console.error("faq.json yüklenemedi!"); }
+    try {
+        // GitHub Pages adres yapısını otomatik analiz eder (örn: /UjuKhanBot/faq.json)
+        let url = './faq.json';
+        const pathSegments = window.location.pathname.split('/').filter(Boolean);
+
+        if (window.location.hostname.includes('github.io') && pathSegments.length > 0) {
+            url = `/${pathSegments[0]}/faq.json`;
         }
+
+        let response = await fetch(url);
+        
+        // Eğer ilk yol başarısız olursa standart göreceli yolu dener
+        if (!response.ok) {
+            response = await fetch('./faq.json');
+        }
+
+        if (!response.ok) {
+            throw new Error(`HTTP status: ${response.status}`);
+        }
+
+        const faqData = await response.json();
+        renderFaq(faqData);
+    } catch(e) { 
+        console.error("faq.json yüklenemedi:", e); 
+    }
+}
 
         function colorMap(colorClass) {
             if (colorClass.includes('cyan')) return 'cyan';
